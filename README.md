@@ -54,5 +54,3 @@ O desafio também possui critérios específicos relacionados à utilização co
 * **Programação Orientada a Objetos**
 * **Git**
 * **GitHub**
-
-⭐ Projeto desenvolvido para prática e consolidação dos fundamentos de **Programação Orientada a Objetos com Java**.
